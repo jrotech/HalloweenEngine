@@ -1,0 +1,9 @@
+﻿  Halloween_Game.cpp
+C:\Users\jacob\OneDrive - Aston University\Programming\ComputerScienceIndustry\HalloweenEngine\Halloween_Game\olcConsoleGameEngine.h(759,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jacob\OneDrive - Aston University\Programming\ComputerScienceIndustry\HalloweenEngine\Halloween_Game\olcConsoleGameEngine.h(1096,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\jacob\OneDrive - Aston University\Programming\ComputerScienceIndustry\HalloweenEngine\Halloween_Game\olcConsoleGameEngine.h(1193,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\jacob\OneDrive - Aston University\Programming\ComputerScienceIndustry\HalloweenEngine\Halloween_Game\Halloween_Game.cpp(248,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jacob\OneDrive - Aston University\Programming\ComputerScienceIndustry\HalloweenEngine\Halloween_Game\Halloween_Game.cpp(318,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jacob\OneDrive - Aston University\Programming\ComputerScienceIndustry\HalloweenEngine\Halloween_Game\Halloween_Game.cpp(320,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\jacob\OneDrive - Aston University\Programming\ComputerScienceIndustry\HalloweenEngine\Halloween_Game\Halloween_Game.cpp(356,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Halloween_Game.vcxproj -> C:\Users\jacob\OneDrive - Aston University\Programming\ComputerScienceIndustry\HalloweenEngine\x64\Debug\Halloween_Game.exe
